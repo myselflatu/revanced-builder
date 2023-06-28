@@ -23,7 +23,7 @@ Get the [latest release](https://github.com/myselflatu/revanced-builder/releases
 
  * Star the repo :eyes:
  * [Fork the repo](https://github.com/j-hc/revanced-magisk-module/fork) or use it as a template
- * Customize [`config.toml`](./config.toml)
+ * Customize [`config.toml`](./config.toml) by hand or using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
 
